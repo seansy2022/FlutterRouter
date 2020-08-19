@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FlutterRouter_Tests' do
+  pod 'FlutterRouter', :path => '../'
+  
+  
+end
