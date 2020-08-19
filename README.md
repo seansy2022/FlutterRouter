@@ -1,5 +1,5 @@
 # FlutterRouter# FlutterRouter
-1.在创建Engine之后，注册routter并将创建的viewController传进来
+1.在创建Engine之后，注册router并将创建的viewController传进来
 ``` swift
      FlutterRouter.register(viewController: controller)
 ```
